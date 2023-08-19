@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\worksheet4",
+    "\\worksheet4\\cise_ass1a_worksheet4",
+    "\\worksheet4\\cise_ass1a_worksheet4\\frontend",
+    "\\worksheet4\\cise_ass1a_worksheet4\\frontend\\src",
+    "\\worksheet4\\cise_ass1a_worksheet4\\frontend\\src\\components",
+    "\\worksheet4\\cise_ass1a_worksheet4\\frontend\\src\\components\\nav",
+    "\\worksheet4\\cise_ass1a_worksheet4\\frontend\\src\\pages",
+    "\\worksheet4\\cise_ass1a_worksheet4\\frontend\\src\\styles",
+    "\\worksheet4\\cise_ass1a_worksheet4\\frontend\\src\\utils"
+  ],
+  "SelectedNode": "\\worksheet4\\cise_ass1a_worksheet4\\frontend\\src\\components\\PopulatedNavBar.tsx",
+  "PreviewInSolutionExplorer": false
+}
